@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a PhD student in Physical chemistry. I have done both experimental and computational work. <br>My computational work has included Molecular dynamics and finite element simulations. Furthermore, I have built a neutron reflection data analysis package that enables users to have more flexibility for more complex sytems.<br><br>In my part time job, I have also done work around developing data analysis programme for analysing netCDF files and using machine learning to predict the power factor.<br><br>I always enjoy working on new computational projects with new challenges and always looking to collaborate with new people:)
+I'm a PhD student in Physical chemistry at the University of Cambridge. I have done both experimental and computational work. <br>My computational work has included Molecular dynamics and finite element simulations. Furthermore, I have built a neutron reflection data analysis package that enables users to have more flexibility for more complex sytems.<br><br>In my part time job, I have also done work around developing data analysis programme for analysing netCDF files and using machine learning to predict the power factor.<br><br>I always enjoy working on new computational projects with new challenges and always looking to collaborate with new people:)
 
 
 ## 🌐 Socials:
