@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-I'm a machine learning engineer with experience on time series forecasting (ARIMA, LSTM, GRU, ST-GNNs, Kalman filtering), GANs for synthetic data generation, building advanced Retrieval Augmented Generation (RAG) pipelines, Multiagent systems with CrewAI. I have PhD in Physical chemistry at the University of Cambridge, doing both experimental and computational work. <br>My computational work has included Molecular dynamics and finite element simulations. Furthermore, I have built a neutron reflection data analysis package that enables users to have more flexibility for more complex sytems.<br><br>I always enjoy working on new computational projects with new challenges and always looking to collaborate with new people:)
+I'm a machine learning engineer with 2 years of experience in research and development involving time series forecasting (Custom Transformers, LSTM, GRU, ST-GNNs, Kalman filtering), GANs for synthetic data generation, building advanced Retrieval Augmented Generation (RAG) pipelines, Multiagent systems with CrewAI and reinforcement learning. 
+
+I have PhD in Molecular chemistry at the University of Cambridge, doing both experimental and computational work. <br>My computational work has included Molecular dynamics and finite element simulations. Furthermore, I have built a neutron reflection data analysis package that enables users to have more flexibility for more complex sytems.<br><br>I always enjoy working on new computational projects with new challenges and always looking to collaborate with new people:)
 
 
 ## 🌐 Socials:
